@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">APPs-1</string>
+    <!--Se puede definir variable para luego se traduscan-->
+    <string name="label">Mi botoncito</string>
+    <string name="name">name</string>
+</resources>
